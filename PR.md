@@ -17,3 +17,7 @@ O ficheiro querie.txt contém as respostas das queries pedidas. Tanto input como
 Dentro da pasta __ex1__ , na pasta __Teste__ correr os comandos "npm i" e "npm start"
 
 A parte de resolução deste exercicio foi feito no ficheiro de nome __app.js__
+
+
+### 2 
+Visto que não consegui chegar a uma solução para este exercicio, nenhuma pasta foi colocada para o efeito.
